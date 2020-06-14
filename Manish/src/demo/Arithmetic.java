@@ -15,6 +15,7 @@ public class Arithmetic {
 		int d= a-b;
 		System.out.println("Sub is :"+d);
 		return d;
+		//new
 		
 	}
 	
